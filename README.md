@@ -24,7 +24,7 @@ Polypharmacy deals with use of multiple medications and their effects.   In this
 3. Explore modern neural methods of learning on graphs – representation learning and semi-supervised graph algorithms using neural techniques.
 4. Explored node2vec model helping to perform node embedding and then perform a link prediction on it.
 
-###Issues faced in the project
+### Issues faced in the project
 1. Wasn’t able to perform graph ml models like gcn,graphSAGE and GAT models in our project due to data not matching with the model requirements.
 2. Most of models used are for node prediction but our main goal was to perform link prediction which set as a drawback to this project.
 3. From various literature survey we found that the dataset that we choose was a part of huge directory called decagon which had resources that will help make a prediction of side effects based on drug-drug interaction,protein-drug interaction and protein-protein interactions.
